@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**IshaanAhujaDev/IshaanAhujaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Ishaan Ahuja ] | Aspiring Data Scientist & Software Developer 🚀
 
-Here are some ideas to get you started:
+I'm a 9th-grade developer building at the intersection of **Data Science** and **Full-Stack Development**. I'm passionate about creating tools that solve real-world problems through automation, clean design, and data-driven insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Logic & Data** | Python, Matplotlib, Java (Learning) |
+| **Frontend** | HTML5, CSS3, JavaScript (Learning) |
+| **Tools** | Git, GitHub, VS Code, Linux |
+
+---
+
+### 📂 Project Highlights
+* 📐 **[Coordinate Geometry Analyzer](link)**
+    * *Python/Streamlit tool for visualizing math.*
+* 💻 **[Personal Site / Portfolio](link)**
+    * *Built with HTML/CSS to showcase my work.*
+* ⚡ **Automation Hub** (Coming Soon)
+
+---
+
+### 📊 My Growth Stats
+(https://github-readme-stats.vercel.app/api?username=IshaanAhujaDev&show_icons=true&theme=tokyonight)
+
+---
+
+### 🎯 What's Next?
+- [ ] Mastering Java for backend logic.
+- [ ] Integrating JavaScript into my web projects for interactivity.
+- [ ] Completing an end-to-end Data Science project with a custom dataset.

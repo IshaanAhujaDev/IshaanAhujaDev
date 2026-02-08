@@ -26,8 +26,7 @@ I'm a 9th-grade developer building at the intersection of **Data Science** and *
 ---
 
 ### 📊 My Growth Stats
-(https://github-readme-stats.vercel.app/api?username=IshaanAhujaDev&show_icons=true&theme=tokyonight)
-
+![My Stats](https://github-readme-stats.vercel.app/api?username=IshaanAhujaDev&show_icons=true&theme=tokyonight)
 ---
 
 ### 🎯 What's Next?

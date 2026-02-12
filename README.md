@@ -43,5 +43,6 @@ I am a 9th-grade developer building at the intersection of **Software Engineerin
 
 ### 📫 Connect with me
 * **GitHub:** [github.com/IshaanAhujaDev](https://github.com/IshaanAhujaDev)
+* [🚀 View my Portfolio](https://ishaan-dev.netlify.app)
 - [ ] Integrating JavaScript into my web projects for interactivity.
 - [ ] Completing an end-to-end Data Science project with a custom dataset.

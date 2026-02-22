@@ -59,4 +59,4 @@ An integrated suite of Python scripts focused on web scraping and automated data
 ### Contact and Networking
 * **GitHub:** [github.com/IshaanAhujaDev](https://github.com/IshaanAhujaDev)
 * **Portfolio:** [ishaan-dev.netlify.app](https://ishaan-dev.netlify.app)
-* **Email:** ishaanahujadev@gmail.com
+* **Email:** ishaan.ahuja.dev@gmail.com

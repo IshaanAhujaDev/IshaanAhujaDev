@@ -1,62 +1,62 @@
-# Ishaan Ahuja
-### Software Developer and Data Science Researcher
+# ISHAAN AHUJA
+### Software Engineer | Computational Data Science | Web Architect
 
-I am a developer focused on the intersection of software engineering, automated data collection, and computational visualization. Currently, I am leveraging Python for algorithmic problem-solving and building performant, SEO-optimized web architectures.
+I am a developer specializing in the intersection of algorithmic efficiency, data-driven visualization, and scalable web architecture. My work focuses on building Python-based computational tools and high-performance, SEO-optimized systems.
 
 ---
 
-### Technical Proficiencies
+### CORE TECHNOLOGIES
 
-**Software Engineering and Data Science**
+**Development & Data Science**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
-**Web Architecture and Frontend**
+**Web Architecture & Scripting**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Environment and Deployment**
+**Workflow & Deployment**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ---
 
-### Selected Projects
+### TECHNICAL PROJECTS
 
 **Coordinate Geometry Analyzer**
-[View Repository](https://github.com/IshaanAhujaDev/geometry-analyzer)
-A Python-based computational tool designed to calculate distance, midpoint, and slope while generating visual representations of geometric data.
+[Repository](https://github.com/IshaanAhujaDev/geometry-analyzer)
+* Implemented a computational engine for multi-variable geometric calculations.
+* Features automated calculation of distance, midpoints, and slope with integrated data plotting.
 
-**Official Portfolio**
-[View Live Site](https://ishaan-dev.netlify.app)
-A custom-built web presence optimized for technical SEO and mobile performance, serving as a hub for project documentation.
+**Official Portfolio Architecture**
+[Live Project](https://ishaan-dev.netlify.app)
+* Developed a responsive, mobile-first web presence with a focus on technical SEO.
+* Engineered to maximize search engine indexing and site performance metrics.
 
-**Automation Hub (In Development)**
-An integrated suite of Python scripts focused on web scraping and automated data processing.
-
----
-
-### Certification and Training
-* **Python Zero to Hero Mastery:** Advanced OOP, decorators, and scripting.
-* **Advanced HTML5/CSS3:** Semantic web design and responsive architecture.
-* **Java Fundamentals:** Currently implementing backend logic and data structures.
+**Scalable Automation Hub**
+*In Development*
+* Focusing on asynchronous Python scripting for high-volume data scraping and processing.
 
 ---
 
-### Development Metrics
-![My Stats](https://github-readme-stats-fast.vercel.app/api?username=IshaanAhujaDev&show_icons=true&theme=tokyonight)
+### CONTINUOUS PROFESSIONAL DEVELOPMENT
+* **Python Zero to Hero Mastery:** Proficiency in Advanced OOP and scripting logic.
+* **Advanced HTML/CSS:** Mastery of semantic web design and responsive frameworks.
+* **Java Backend Logic:** Current focus on data structures and backend optimization.
+* **Data Science Research:** Implementing Pandas and NumPy for complex dataset analysis.
 
 ---
 
-### Roadmap and Objectives
-* Implementing Java for high-performance backend systems.
-* Developing interactive data dashboards using JavaScript and Python APIs.
-* Finalizing an end-to-end Data Science case study using real-world datasets.
-* Scaling current SEO strategies to maintain top-tier search visibility.
+### ANALYTICS
+![Ishaan's Stats](https://github-readme-stats-fast.vercel.app/api?username=IshaanAhujaDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IshaanAhujaDev&layout=compact&theme=tokyonight&hide_border=true)
 
-### Contact and Networking
-* **GitHub:** [github.com/IshaanAhujaDev](https://github.com/IshaanAhujaDev)
+---
+
+### CONTACT
 * **Portfolio:** [ishaan-dev.netlify.app](https://ishaan-dev.netlify.app)
-* **Email:** ishaan.ahuja.dev@gmail.com
+* **GitHub:** [github.com/IshaanAhujaDev](https://github.com/IshaanAhujaDev)
+* **Inquiries:** Direct via Portfolio contact interface.

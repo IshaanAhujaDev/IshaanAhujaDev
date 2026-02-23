@@ -26,10 +26,7 @@ I am a developer specializing in the intersection of algorithmic efficiency, dat
 
 ### TECHNICAL PROJECTS
 
-**Coordinate Geometry Analyzer**
-[Repository](https://github.com/IshaanAhujaDev/geometry-analyzer)
-* Implemented a computational engine for multi-variable geometric calculations.
-* Features automated calculation of distance, midpoints, and slope with integrated data plotting.
+
 
 **Official Portfolio Architecture**
 [Live Project](https://ishaan-dev.netlify.app)
